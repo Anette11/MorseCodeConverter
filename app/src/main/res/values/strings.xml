@@ -1,0 +1,254 @@
+<resources>
+    <string name="app_name">MorseCodeConverter</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="d">d</string>
+    <string name="e">e</string>
+    <string name="f">f</string>
+    <string name="g">g</string>
+    <string name="h">h</string>
+    <string name="i">i</string>
+    <string name="j">j</string>
+    <string name="k">k</string>
+    <string name="l">l</string>
+    <string name="m">m</string>
+    <string name="n">n</string>
+    <string name="o">o</string>
+    <string name="p">p</string>
+    <string name="q">q</string>
+    <string name="r">r</string>
+    <string name="s">s</string>
+    <string name="t">t</string>
+    <string name="u">u</string>
+    <string name="v">v</string>
+    <string name="w">w</string>
+    <string name="x">x</string>
+    <string name="y">y</string>
+    <string name="z">z</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="period">.</string>
+    <string name="comma">,</string>
+    <string name="question_mark">\?</string>
+    <string name="apostrophe">\'</string>
+    <string name="exclamation_mark">!</string>
+    <string name="slash">/</string>
+    <string name="parenthesis_open">(</string>
+    <string name="parenthesis_close">)</string>
+    <string name="ampersand">&amp;</string>
+    <string name="colon">:</string>
+    <string name="semicolon">;</string>
+    <string name="equals_sign">=</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="underscore">_</string>
+    <string name="quotation_mark">\"</string>
+    <string name="dollar_sign">$</string>
+    <string name="at_sign">\@</string>
+
+    <string name="a_code">·−</string>
+    <string name="b_code">−···</string>
+    <string name="c_code">−·−·</string>
+    <string name="d_code">−··</string>
+    <string name="e_code">·</string>
+    <string name="f_code">··−·</string>
+    <string name="g_code">−−·</string>
+    <string name="h_code">····</string>
+    <string name="i_code">··</string>
+    <string name="j_code">·−−−</string>
+    <string name="k_code">−·−</string>
+    <string name="l_code">·−··</string>
+    <string name="m_code">−−</string>
+    <string name="n_code">−·</string>
+    <string name="o_code">−−−</string>
+    <string name="p_code">·−−·</string>
+    <string name="q_code">−−·−</string>
+    <string name="r_code">·−·</string>
+    <string name="s_code">···</string>
+    <string name="t_code">−</string>
+    <string name="u_code">··−</string>
+    <string name="v_code">···−</string>
+    <string name="w_code">·−−</string>
+    <string name="x_code">−··−</string>
+    <string name="y_code">−·−−</string>
+    <string name="z_code">−−··</string>
+    <string name="_0_code">−−−−−</string>
+    <string name="_1_code">·−−−−</string>
+    <string name="_2_code">··−−−</string>
+    <string name="_3_code">···−−</string>
+    <string name="_4_code">····−</string>
+    <string name="_5_code">·····</string>
+    <string name="_6_code">−····</string>
+    <string name="_7_code">−−···</string>
+    <string name="_8_code">−−−··</string>
+    <string name="_9_code">−−−−·</string>
+    <string name="period_code">·−·−·−</string>
+    <string name="comma_code">−−··−−</string>
+    <string name="question_mark_code">··−−··</string>
+    <string name="apostrophe_code">·−−−−·</string>
+    <string name="exclamation_mark_code">−·−·−−</string>
+    <string name="slash_code">−··−·</string>
+    <string name="parenthesis_open_code">−·−−·</string>
+    <string name="parenthesis_close_code">−·−−·−</string>
+    <string name="ampersand_code">·−···</string>
+    <string name="colon_code">−−−···</string>
+    <string name="semicolon_code">−·−·−·</string>
+    <string name="equals_sign_code">−···−</string>
+    <string name="plus_sign_code">·−·−·</string>
+    <string name="minus_sign_code">−····−</string>
+    <string name="underscore_code">··−−·−</string>
+    <string name="quotation_mark_code">·−··−·</string>
+    <string name="dollar_sign_code">···−··−</string>
+    <string name="at_sign_code">·−−·−·</string>
+
+    <string name="morse_code">Morse Code</string>
+    <string name="english">English</string>
+    <string name="vibration">vibration</string>
+    <string name="volume_up">volume_up</string>
+    <string name="highlight">highlight</string>
+    <string name="clear">clear</string>
+    <string name="enter">enter</string>
+    <string name="flash_not_available">Flash is not available on the device!</string>
+    <string name="period_2">·</string>
+    <string name="minus_sign_2">−</string>
+    <string name="no_morse_code_to_play">Morse Code field is empty!</string>
+    <string name="backspace">⌫</string>
+    <string name="new_line">\n</string>
+    <string name="space">\u0020</string>
+    <string name="two_spaces">\u0020\u0020</string>
+    <string name="tone_is_playing">Tone is playing!</string>
+    <string name="vibration_is_playing">Vibration is playing!</string>
+    <string name="flash_is_playing">Flash is playing!</string>
+    <string name="close">CLOSE</string>
+    <string name="sos">SOS</string>
+    <string name="string_null">@null</string>
+    <string name="vibration_is_not_available">Vibration is not available!</string>
+    <string name="str_all_caps">⇧</string>
+    <string name="empty" />
+    <string name="interrupted_exception">InterruptedException:</string>
+    <string name="camera_access_exception">CameraAccessException:</string>
+
+    <string-array name="symbols">
+        <item>@string/a</item>
+        <item>@string/b</item>
+        <item>@string/c</item>
+        <item>@string/d</item>
+        <item>@string/e</item>
+        <item>@string/f</item>
+        <item>@string/g</item>
+        <item>@string/h</item>
+        <item>@string/i</item>
+        <item>@string/j</item>
+        <item>@string/k</item>
+        <item>@string/l</item>
+        <item>@string/m</item>
+        <item>@string/n</item>
+        <item>@string/o</item>
+        <item>@string/p</item>
+        <item>@string/q</item>
+        <item>@string/r</item>
+        <item>@string/s</item>
+        <item>@string/t</item>
+        <item>@string/u</item>
+        <item>@string/v</item>
+        <item>@string/w</item>
+        <item>@string/x</item>
+        <item>@string/y</item>
+        <item>@string/z</item>
+        <item>@string/_0</item>
+        <item>@string/_1</item>
+        <item>@string/_2</item>
+        <item>@string/_3</item>
+        <item>@string/_4</item>
+        <item>@string/_5</item>
+        <item>@string/_6</item>
+        <item>@string/_7</item>
+        <item>@string/_8</item>
+        <item>@string/_9</item>
+        <item>@string/period</item>
+        <item>@string/comma</item>
+        <item>@string/question_mark</item>
+        <item>@string/apostrophe</item>
+        <item>@string/exclamation_mark</item>
+        <item>@string/slash</item>
+        <item>@string/parenthesis_open</item>
+        <item>@string/parenthesis_close</item>
+        <item>@string/ampersand</item>
+        <item>@string/colon</item>
+        <item>@string/semicolon</item>
+        <item>@string/equals_sign</item>
+        <item>@string/plus_sign</item>
+        <item>@string/minus_sign</item>
+        <item>@string/underscore</item>
+        <item>@string/quotation_mark</item>
+        <item>@string/dollar_sign</item>
+        <item>@string/at_sign</item>
+    </string-array>
+
+    <string-array name="codes">
+        <item>@string/a_code</item>
+        <item>@string/b_code</item>
+        <item>@string/c_code</item>
+        <item>@string/d_code</item>
+        <item>@string/e_code</item>
+        <item>@string/f_code</item>
+        <item>@string/g_code</item>
+        <item>@string/h_code</item>
+        <item>@string/i_code</item>
+        <item>@string/j_code</item>
+        <item>@string/k_code</item>
+        <item>@string/l_code</item>
+        <item>@string/m_code</item>
+        <item>@string/n_code</item>
+        <item>@string/o_code</item>
+        <item>@string/p_code</item>
+        <item>@string/q_code</item>
+        <item>@string/r_code</item>
+        <item>@string/s_code</item>
+        <item>@string/t_code</item>
+        <item>@string/u_code</item>
+        <item>@string/v_code</item>
+        <item>@string/w_code</item>
+        <item>@string/x_code</item>
+        <item>@string/y_code</item>
+        <item>@string/z_code</item>
+        <item>@string/_0_code</item>
+        <item>@string/_1_code</item>
+        <item>@string/_2_code</item>
+        <item>@string/_3_code</item>
+        <item>@string/_4_code</item>
+        <item>@string/_5_code</item>
+        <item>@string/_6_code</item>
+        <item>@string/_7_code</item>
+        <item>@string/_8_code</item>
+        <item>@string/_9_code</item>
+        <item>@string/period_code</item>
+        <item>@string/comma_code</item>
+        <item>@string/question_mark_code</item>
+        <item>@string/apostrophe_code</item>
+        <item>@string/exclamation_mark_code</item>
+        <item>@string/slash_code</item>
+        <item>@string/parenthesis_open_code</item>
+        <item>@string/parenthesis_close_code</item>
+        <item>@string/ampersand_code</item>
+        <item>@string/colon_code</item>
+        <item>@string/semicolon_code</item>
+        <item>@string/equals_sign_code</item>
+        <item>@string/plus_sign_code</item>
+        <item>@string/minus_sign_code</item>
+        <item>@string/underscore_code</item>
+        <item>@string/quotation_mark_code</item>
+        <item>@string/dollar_sign_code</item>
+        <item>@string/at_sign_code</item>
+    </string-array>
+
+</resources>
